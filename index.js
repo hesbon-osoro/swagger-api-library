@@ -40,6 +40,10 @@ app.use(cors());
 app.use(express.json());
 app.use(morgan('dev'));
 
+app.get('/', (_req, res) => {
+  res.json('Welcome to the Library API');
+});
+
 app.use('/books', booksRouter);
 
 app.listen(PORT, () => console.log(`The server is running on port ${PORT}`));
