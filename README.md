@@ -25,3 +25,11 @@ node index.js
 ```
 
 - Go to [`localhost:4000/api-docs/`](http://localhost:4000/api-docs/) on your browser
+
+## Demo
+
+![Swagger Home](assets/swagger%20library.png)
+
+![Swagger get](assets/swagger%20library1.png)
+
+![Swagger post](assets/swagger%20library2.png)
