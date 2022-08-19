@@ -10,3 +10,5 @@
 - LowDB
 - CORS
 - Morgan
+
+Follow this [`video`](https://www.youtube.com/watch?v=S8kmHtQeflo) for further information
