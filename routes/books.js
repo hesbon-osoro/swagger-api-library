@@ -73,7 +73,7 @@ router.get('/', (req, res) => {
  *     responses:
  *       200:
  *         description: The book description by id
- *         contens:
+ *         content:
  *           application/json:
  *             schema:
  *               $ref: '#/components/schemas/Book'
